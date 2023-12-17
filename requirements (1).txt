@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+transformers
+tensorflow
+pytest
+streamlit
+httpx
+sentencepiece
